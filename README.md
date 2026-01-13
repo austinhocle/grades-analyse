@@ -17,7 +17,7 @@ It then performs a basic analysis, such as calculating average scores and identi
 * What is the worst performed subject? 
 
 
-#### Third-Party Python Packages used: 
+#### Third-Party Python Packages 
 * pandas 
 * word2number
 
