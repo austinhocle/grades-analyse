@@ -18,7 +18,7 @@ It then performs a basic analysis, such as calculating average scores and identi
 
 
 #### Tools:
-* Python (Pandas, Word2Number) 
+* Python (Data Cleaning, Pandas, Word2Number) 
 * Microsoft Excel
 
 The dataset is included as [grades.csv](grades.csv) 
