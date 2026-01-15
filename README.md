@@ -1,4 +1,4 @@
-# Grades Analyser
+# Grade Analyser for an IT University Student
 
 #### Context
 
